@@ -1,0 +1,73 @@
+
+
+.div1{
+    font-size: 45px;
+    color: gray;
+    margin-left:20px;
+    margin-top: 20px;
+    width:600px;
+    
+}
+
+.name{
+    font-size: 20px;
+    color:teal;
+    margin-left: 500px;
+    
+}
+
+.div2{
+    font-size: 20px;
+    color:white;
+    
+    margin-left: 100px;
+  
+}
+
+.cname{
+    font-size: 30px;
+    color:turquoise;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.cinfo{
+    border:1px solid turquoise;
+    font-size: 18px;
+    color:tear;
+    margin-left: 20px;
+    margin-top: 30px;
+    width: 800px;
+    height: 250px;
+}
+
+.myComment{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.comments{
+    margin-left: 20px;
+    height:100px;
+}
+
+.name22{
+    font-size: 25px;
+    color:teal;
+    position: absolute;
+    left: 1000px;
+    top:20px;
+    
+}
+
+
+
+.div22{
+    font-size: 20px;
+    color:white;
+    
+    position: absolute;
+    left: 1300px;
+    top:18px;
+  
+}

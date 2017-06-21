@@ -1,0 +1,57 @@
+.card{
+    border: 2px gold solid;
+    width: 300px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 50px;
+    float: left;
+    background: lightgoldenrodyellow;
+    
+}
+
+.card1{
+    border: 0.5px grey solid;
+    margin-left: 10px;
+    margin-top: 8px;
+    width: 120px;
+    height: 80px;
+    float: left;
+    font-size: 20px;
+    color: teal;
+    
+}
+
+.card2{
+    border: 0.5px grey solid;
+    margin-left: 40px;
+    margin-top: 8px;
+    width: 100px;
+    height: 80px;
+    float: left;
+}
+
+.card3{
+    border: 0.5px grey solid;
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 120px;
+    height: 80px;
+    float: left;
+}
+
+.card4{
+    border: 0.5px grey solid;
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 120px;
+    height: 80px;
+    float: left;
+    
+    font-size: 20px;
+    color: orange;
+}
+
+.fck{
+    margin-left: 100px;
+    margin-top: 100px;
+}

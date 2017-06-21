@@ -1,0 +1,49 @@
+
+.div1{
+    font-size: 100px;
+    color:gray;
+    margin-left:60px;
+    margin-top: 20px;
+    width:300px;
+    
+    
+}
+.div2{
+    font-size: 35px;
+    color:gray;
+    margin-top:100px;
+    margin-left: 5px;
+}
+
+.div3{
+    position:absolute;
+    left:800px;
+    top:300px;
+}
+
+.div4{
+     margin-left: 8px;
+    margin-top: 8px;
+    width:450px;
+    height:100px;
+    font-size: 30px;
+    color:gray;
+    
+}
+
+.div5{
+    margin-left: 8px;
+    width:450px;
+    height:60px;
+    font-size: 20px;
+    color:gray;
+    text-align: left;
+}
+.div6{
+    margin-left: 100px;
+    
+    height:60px;
+    font-size: 25px;
+    color:gray;
+    
+}

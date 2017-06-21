@@ -1,0 +1,72 @@
+body{
+    margin:0 auto;
+   
+}
+
+
+
+.div1{
+    font-size: 45px;
+    color: gray;
+    margin-left:20px;
+    margin-top: 20px;
+    width:600px;
+    
+}
+
+.name{
+    font-size: 25px;
+    color:teal;
+    position: absolute;
+    left: 1000px;
+    top:20px;
+    
+}
+
+
+
+.div2{
+    font-size: 20px;
+    color:white;
+    
+    position: absolute;
+    left: 1300px;
+    top:18px;
+  
+}
+
+
+.div3{
+   margin-left: 0;
+   margin-top: 50px;
+   width:800px;
+   background-color: #FFFFCD;
+}
+
+.div3 th{
+    width:250px;
+    font-size: 20px;
+}
+
+.div3 th a{
+    color:gray;
+    font-style: oblique;
+}
+
+.div4{
+    
+    margin-top:30px;
+    
+}
+
+.div4 a{
+    color: teal;
+}
+
+
+
+.tubiao{
+    position: absolute;
+    left: 1150px;
+    top:25px;
+}

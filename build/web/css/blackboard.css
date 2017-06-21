@@ -1,0 +1,36 @@
+
+.shadow {
+        margin-left: 500px;
+	text-shadow: -4px 4px 6px dimgrey; 
+	font-size: 400%;
+	text-align:center;
+	color:yellow;
+        width:500px;
+        background-color: red;
+            
+}
+
+.div1{
+    margin-left: 200px;
+    margin-top:50px;
+}
+
+.div1 th{
+    text-align: center;
+}
+
+.div1 table{
+    color: white;
+    font-size: 20px;
+}
+
+.div2{
+    margin-left: 200px;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.div2 link{
+    color:gray;
+    
+}
